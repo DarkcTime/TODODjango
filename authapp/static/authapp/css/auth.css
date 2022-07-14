@@ -1,0 +1,32 @@
+body {
+    background-image: url('../../authapp/media/bback.webp');
+}
+
+.form{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    border-radius: 10%;
+    padding: 20px;
+}
+
+.form h1 {
+    padding: 10px; 
+    text-align: center;
+    font-size: 35px; 
+    color: blue; 
+}
+
+.form input {
+    margin: 10px;
+    border-color: grey;
+}
+
+.link_register{
+    padding: 10px;
+}
+
+
+
